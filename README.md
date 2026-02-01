@@ -1,6 +1,6 @@
 # plc-learning-journey
 This repository documents my hands-on learning path toward becoming a Controls/Mechatronics Engineer.  
-I am working through Siemens LOGO! Soft Comfort, then progressing to Siemens TIA Portal and full S7-1200/1500 projects.
+I am working through Siemens LOGO! Soft Comfort, then progressing to Siemens TIA Portal projects.
 
 Each level contains structured tasks, ladder logic diagrams, explanations, and project files.
 

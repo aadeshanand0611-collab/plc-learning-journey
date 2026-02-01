@@ -94,6 +94,7 @@ This task builds the foundation for safety logic, interlocks, and sequencing.
 ---
 
 ## Files Included
-- `task-2-latching.lsc` — LOGO! Soft Comfort project file  
+- `task-2-latchingMethod-1.lld` — LOGO! Soft Comfort project file with method 1
+- `task-2-latchingMethod-2.lld` — LOGO! Soft Comfort project file with method 2
 - `screenshot.png` — Ladder logic view  
 - `notes.md` — This documentation

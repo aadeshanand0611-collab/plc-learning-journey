@@ -21,3 +21,10 @@ Each task includes:
 - Screenshots  
 - Notes and lessons learned  
 
+
+## 📝 About This Repository
+
+This repository is part of my transition from Mechatronics Technician to Controls/Mechatronics Engineer.  
+I document each step publicly to stay accountable, build a portfolio, and share what I learn with others.
+
+If you work in automation or controls engineering, I’d love your feedback or suggestions for future projects.

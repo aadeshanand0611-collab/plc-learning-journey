@@ -54,6 +54,6 @@ This makes TP ideal for one‑shot triggers, alarms, and timed actuations.
 ---
 
 ## Files Included
-- `task-3-tp.lsc` - LOGO! Soft Comfort project file  
+- `task-3-tp.lld` - LOGO! Soft Comfort project file  
 - `screenshot.png` - Ladder logic view  
 - `notes.md` - This documentation

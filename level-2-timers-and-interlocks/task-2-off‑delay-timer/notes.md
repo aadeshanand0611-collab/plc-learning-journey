@@ -50,6 +50,6 @@ The rung contains:
 ---
 
 ## Files Included
-- `task-2-tof.lsc` - LOGO! Soft Comfort project file  
+- `task-2-tof.lld` - LOGO! Soft Comfort project file  
 - `screenshot.png` - Ladder logic view  
 - `notes.md` - This documentation

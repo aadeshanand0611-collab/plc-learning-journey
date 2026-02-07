@@ -21,8 +21,8 @@ There is no memory, latching, or additional logic beyond a single input controll
 ## Ladder Logic Explanation
 The rung contains:
 
-- `I1` — Normally Open contact  
-- `Q1` — Output coil  
+- `I1` - Normally Open contact  
+- `Q1` - Output coil  
 
 The PLC continuously scans this rung.  
 If `I1` is energized, `Q1` energizes.  
@@ -47,11 +47,11 @@ This is the baseline behavior from which all more complex logic is built.
 - The difference between **momentary** and **maintained** inputs  
 - The foundation for building latches, interlocks, and safety logic later  
 
-This task is intentionally simple — it’s the “Hello World” of PLC programming.
+This task is intentionally simple - it’s the “Hello World” of PLC programming.
 
 ---
 
 ## Files Included
-- `task-1-onoff.lsc` — LOGO! Soft Comfort project file  
-- `screenshot.png` — Ladder logic view  
-- `notes.md` — This documentation
+- `task-1-onoff.lld` - LOGO! Soft Comfort project file  
+- `screenshot.png` - Ladder logic view  
+- `notes.md` - This documentation

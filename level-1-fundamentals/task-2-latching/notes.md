@@ -1,4 +1,4 @@
-# Task 2 — Start/Stop Motor Latching (Seal‑In Circuit)
+# Task 2 - Start/Stop Motor Latching (Seal‑In Circuit)
 
 ## Goal
 Create a motor control circuit where:
@@ -30,7 +30,7 @@ Both methods achieve the same behavior but teach different aspects of PLC logic.
 
 ---
 
-## Method 1 — Latching Relay (SR Block)
+## Method 1 - Latching Relay (SR Block)
 
 ### Logic Rules
 
@@ -50,7 +50,7 @@ When both inputs are off, the output **holds** its previous state.
 
 ---
 
-## Method 2 — Manual Latch (Seal‑In Contact)
+## Method 2 - Manual Latch (Seal‑In Contact)
 
 ### Ladder Logic Explanation
 The rung contains:

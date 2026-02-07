@@ -61,6 +61,6 @@ This guarantees that `Q1` and `Q2` can never be ON at the same time.
 ---
 
 ## Files Included
-- `task-4-interlock.lsc` - LOGO! Soft Comfort project file  
+- `task-4-interlock.lld` - LOGO! Soft Comfort project file  
 - `screenshot.png` - Ladder logic view  
 - `notes.md` - This documentation

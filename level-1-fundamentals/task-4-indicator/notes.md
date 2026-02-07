@@ -27,16 +27,16 @@ This ensures operators always know:
 
 In this task, `Q2` simply **follows** the state of `Q1`.
 
-There is no additional logic, timing, or latching — just a direct relationship.
+There is no additional logic, timing, or latching - just a direct relationship.
 
 ---
 
 ## Ladder Logic Explanation
 The rung contains:
 
-- `Q1` — Motor output coil  
-- `Q1` feedback contact — used as the condition for `Q2`  
-- `Q2` — Indicator light output coil  
+- `Q1` - Motor output coil  
+- `Q1` feedback contact - used as the condition for `Q2`  
+- `Q2` - Indicator light output coil  
 
 ### How It Works
 - When the motor (`Q1`) energizes, its contact closes  
@@ -68,6 +68,6 @@ This task reinforces the idea that outputs can be used as logic conditions, not 
 ---
 
 ## Files Included
-- `task-4-indicator.lsc` — LOGO! Soft Comfort project file  
-- `screenshot.png` — Ladder logic view  
-- `notes.md` — This documentation
+- `task-4-indicator.lld` - LOGO! Soft Comfort project file  
+- `screenshot.png` - Ladder logic view  
+- `notes.md` - This documentation

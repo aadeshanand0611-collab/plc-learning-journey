@@ -1,4 +1,4 @@
-# Task 4 — Indicator Light Logic (Q2 Mirrors Q1)
+# Task 4 - Indicator Light Logic (Q2 Mirrors Q1)
 
 ## Goal
 Extend the previous motor control logic so that:

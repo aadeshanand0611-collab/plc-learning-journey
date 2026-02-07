@@ -55,10 +55,10 @@ When both inputs are off, the output **holds** its previous state.
 ### Ladder Logic Explanation
 The rung contains:
 
-- `I1` — Start (NO)  
-- `I2` — Stop (NC)  
-- `Q1` — Motor output coil  
-- `Q1` feedback contact — placed in parallel with `I1`  
+- `I1` - Start (NO)  
+- `I2` - Stop (NC)  
+- `Q1` - Motor output coil  
+- `Q1` feedback contact - placed in parallel with `I1`  
 
 ### How It Works
 - Pressing Start energizes `Q1`  
@@ -94,7 +94,7 @@ This task builds the foundation for safety logic, interlocks, and sequencing.
 ---
 
 ## Files Included
-- `task-2-latchingMethod-1.lld` — LOGO! Soft Comfort project file with method 1
-- `task-2-latchingMethod-2.lld` — LOGO! Soft Comfort project file with method 2
-- `screenshot.png` — Ladder logic view  
-- `notes.md` — This documentation
+- `task-2-latchingMethod-1.lld` - LOGO! Soft Comfort project file with method 1
+- `task-2-latchingMethod-2.lld` - LOGO! Soft Comfort project file with method 2
+- `screenshot.png` - Ladder logic view  
+- `notes.md` - This documentation

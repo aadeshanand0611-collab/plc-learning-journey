@@ -6,7 +6,7 @@ Each level contains structured tasks, ladder logic diagrams, explanations, and p
 
 ---
 
-## 📘 Level 1 — Core PLC Fundamentals (LOGO!)
+## 📘 Level 1 - Core PLC Fundamentals (LOGO!)
 **Status: Completed**
 
 - Task 1: Basic ON/OFF Control  

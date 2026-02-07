@@ -65,6 +65,6 @@ This creates a clean, predictable three‑stage sequence.
 ---
 
 ## Files Included
-- `task-5-sequence.lsc` - LOGO! Soft Comfort project file  
+- `task-5-sequence.lld` - LOGO! Soft Comfort project file  
 - `screenshot.png` - Ladder logic view  
 - `notes.md` - This documentation

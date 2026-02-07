@@ -1,4 +1,4 @@
-# Task 1 — Basic ON/OFF Control
+# Task 1 - Basic ON/OFF Control
 
 ## Goal
 Create the simplest possible PLC control:  

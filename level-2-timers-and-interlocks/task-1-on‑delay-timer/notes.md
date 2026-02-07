@@ -49,6 +49,6 @@ The rung contains:
 ---
 
 ## Files Included
-- `task-1-ton.lsc` - LOGO! Soft Comfort project file  
+- `task-1-ton.lld` - LOGO! Soft Comfort project file  
 - `screenshot.png` - Ladder logic view  
 - `notes.md` - This documentation

@@ -6,7 +6,7 @@ Each level contains structured tasks, ladder logic diagrams, explanations, and p
 
 ---
 
-## 📘 Level 1 - Core PLC Fundamentals (LOGO!)
+## Level 1 - Core PLC Fundamentals (LOGO!)
 **Status: Completed**
 
 - Task 1: Basic ON/OFF Control  
@@ -22,7 +22,24 @@ Each task includes:
 - Notes and lessons learned  
 
 
-## 📝 About This Repository
+## Level 2 – Timers & Interlocks (LOGO!)
+**Status: Completed**
+
+- Task 1: On‑Delay Timer (TON)
+- Task 2: Off‑Delay Timer (TOF)
+- Task 3: Pulse Timer (TP) with LOGO‑specific pulse restart behaviour
+- Task 4: Motor Interlock (Mutual Exclusion)
+- Task 5: Three‑Step Sequence Control (Timed progression)
+
+Each task includes:
+- Goal
+- Concept explanation
+- Ladder logic explanation
+- Behaviour table
+- Screenshots
+- Notes and lessons learned
+
+## About This Repository
 
 This repository is part of my transition from Mechatronics Technician to Controls/Mechatronics Engineer.  
 I document each step publicly to stay accountable, build a portfolio, and share what I learn with others.

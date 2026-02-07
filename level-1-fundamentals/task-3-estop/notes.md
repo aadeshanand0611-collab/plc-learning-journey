@@ -36,11 +36,11 @@ In this task, the E‑Stop is inserted **in series** with the existing latch log
 ## Ladder Logic Explanation
 The rung contains:
 
-- `I1` — Start (NO)  
-- `I2` — Stop (NC)  
-- `I3` — Emergency Stop (NC)  
-- `Q1` — Motor output coil  
-- `Q1` feedback contact — for latching  
+- `I1` - Start (NO)  
+- `I2` - Stop (NC)  
+- `I3` - Emergency Stop (NC)  
+- `Q1` - Motor output coil  
+- `Q1` feedback contact - for latching  
 
 ### How It Works
 - When `I3` is **not pressed**, the NC contact is closed → normal operation  
@@ -48,7 +48,7 @@ The rung contains:
 - Releasing the E‑Stop **does not** restart the motor  
 - The operator must press Start again to re‑energize the circuit  
 
-This prevents unexpected machine restarts — a critical safety requirement.
+This prevents unexpected machine restarts - a critical safety requirement.
 
 ---
 
@@ -77,6 +77,6 @@ This task introduces real‑world safety principles used in every industrial con
 ---
 
 ## Files Included
-- `task-3-estop.lsc` — LOGO! Soft Comfort project file  
-- `screenshot.png` — Ladder logic view  
-- `notes.md` — This documentation
+- `task-3-estop.lld` - LOGO! Soft Comfort project file  
+- `screenshot.png` - Ladder logic view  
+- `notes.md` - This documentation

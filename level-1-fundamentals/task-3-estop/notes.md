@@ -1,4 +1,4 @@
-# Task 3 — Emergency Stop (E‑Stop) Logic
+# Task 3 - Emergency Stop (E‑Stop) Logic
 
 ## Goal
 Modify the existing Start/Stop latch so that:
